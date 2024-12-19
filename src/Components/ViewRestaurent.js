@@ -11,7 +11,7 @@ import { useSelector } from 'react-redux';
 function ViewRestaurent() {
     const params = useParams()
     console.log(params.id);
-    const [allRestaurents,setRestaurent] = useState([])
+    const [_allRestaurents,setRestaurent] = useState([])
 
     const getRestaurent = async ()=>{
       await fetch('/restaurents.json')
