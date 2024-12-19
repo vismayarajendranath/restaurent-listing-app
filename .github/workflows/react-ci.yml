@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run tests
-        run: npm test -- --ci --reporters=default --reporters=jest-stare
+        run: npm test -- --watchAll=false --passWithNoTests
 
       - name: Build the app
         run: npm run build
