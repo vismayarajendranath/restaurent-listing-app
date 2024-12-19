@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.com/restaurent-listing-app/static/css/main.1eedb548.css",
+    "main.js": "/github.com/restaurent-listing-app/static/js/main.c19c5de9.js",
+    "index.html": "/github.com/restaurent-listing-app/index.html",
+    "main.1eedb548.css.map": "/github.com/restaurent-listing-app/static/css/main.1eedb548.css.map",
+    "main.c19c5de9.js.map": "/github.com/restaurent-listing-app/static/js/main.c19c5de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eedb548.css",
+    "static/js/main.c19c5de9.js"
+  ]
+}
